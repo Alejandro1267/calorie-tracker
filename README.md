@@ -9,3 +9,7 @@ Aplicación React + TypeScript + Vite que permite registrar comidas y ejercicios
 3. **Resumen visual de calorías:** Cálculos para calorías consumidas, quemadas y diferencia neta con presentación clara.
 4. **Listado interactivo:** Muestra cada actividad con etiqueta de categoría y acciones para editar o eliminar.
 5. **Persistencia automática y reinicio:** Sincroniza el estado en _LocalStorage_ y permite reiniciar la aplicación cuando hay datos.
+
+### URL del Ptoyecto:
+
+https://enchanting-tapioca-cc708c.netlify.app
